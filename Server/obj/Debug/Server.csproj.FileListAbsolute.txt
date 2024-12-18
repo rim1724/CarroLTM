@@ -1,0 +1,37 @@
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Debug\Server.exe.config
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Debug\Server.exe
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Debug\Server.pdb
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Debug\CarroApp.exe
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Debug\CarroApp.pdb
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Debug\CarroApp.exe.config
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.Properties.Resources.resources
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.exe
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.pdb
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.FrmServer.resources
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\CarroApp.FrmLogin.resources
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.exe
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.pdb
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Debug\Server.exe.config
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Debug\Server.exe
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Debug\Server.pdb
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Debug\CarroApp.exe
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Debug\CarroApp.pdb
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Debug\CarroApp.exe.config
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.csprojAssemblyReference.cache
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\CarroApp.FrmLogin.resources
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.FrmServer.resources
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.Properties.Resources.resources
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.csproj.GenerateResource.cache
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\HUNG\Downloads\CarroApp\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\HUNG\Downloads\CarroApp\Server\obj\Debug\CarroApp.FrmLogin.resources
+C:\Users\HUNG\Downloads\CarroApp\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\HUNG\Downloads\CarroApp\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\HUNG\Downloads\CarroApp\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\HUNG\Downloads\CarroApp\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\HUNG\Downloads\CarroApp\Server\obj\Debug\Server.exe
+C:\Users\HUNG\Downloads\CarroApp\Server\obj\Debug\Server.pdb

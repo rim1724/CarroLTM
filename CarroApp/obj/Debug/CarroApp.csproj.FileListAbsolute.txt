@@ -1,0 +1,10 @@
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\bin\Debug\CarroApp.exe.config
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\bin\Debug\CarroApp.exe
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\bin\Debug\CarroApp.pdb
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.csprojResolveAssemblyReference.cache
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.Form1.resources
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.Properties.Resources.resources
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.csproj.GenerateResource.Cache
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.csproj.CoreCompileInputs.cache
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.exe
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.pdb

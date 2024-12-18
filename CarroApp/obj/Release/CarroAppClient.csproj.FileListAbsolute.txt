@@ -1,0 +1,10 @@
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\bin\Release\CarroApp.exe.config
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\bin\Release\CarroApp.exe
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\bin\Release\CarroApp.pdb
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Release\CarroAppClient.csprojAssemblyReference.cache
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Release\CarroApp.FrmClient.resources
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Release\CarroApp.Properties.Resources.resources
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Release\CarroAppClient.csproj.GenerateResource.cache
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Release\CarroAppClient.csproj.CoreCompileInputs.cache
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Release\CarroApp.exe
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Release\CarroApp.pdb

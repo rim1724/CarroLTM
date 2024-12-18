@@ -1,0 +1,30 @@
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\bin\Debug\CarroApp.exe.config
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\bin\Debug\CarroApp.exe
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\bin\Debug\CarroApp.pdb
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.Properties.Resources.resources
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroAppClient.csproj.GenerateResource.Cache
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroAppClient.csproj.CoreCompileInputs.cache
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.exe
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.pdb
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroAppClient.csprojResolveAssemblyReference.cache
+G:\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.FrmClient.resources
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\bin\Debug\CarroApp.exe.config
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\bin\Debug\CarroApp.exe
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\bin\Debug\CarroApp.pdb
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroAppClient.csprojAssemblyReference.cache
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.FrmClient.resources
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.Properties.Resources.resources
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroAppClient.csproj.GenerateResource.cache
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroAppClient.csproj.CoreCompileInputs.cache
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.exe
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\CarroApp\obj\Debug\CarroApp.pdb
+C:\Users\HUNG\Downloads\CarroApp\CarroApp\obj\Debug\CarroAppClient.csproj.AssemblyReference.cache
+C:\Users\HUNG\Downloads\CarroApp\CarroApp\obj\Debug\CarroApp.FrmClient.resources
+C:\Users\HUNG\Downloads\CarroApp\CarroApp\obj\Debug\CarroApp.Properties.Resources.resources
+C:\Users\HUNG\Downloads\CarroApp\CarroApp\obj\Debug\CarroAppClient.csproj.GenerateResource.cache
+C:\Users\HUNG\Downloads\CarroApp\CarroApp\obj\Debug\CarroAppClient.csproj.CoreCompileInputs.cache
+C:\Users\HUNG\Downloads\CarroApp\CarroApp\obj\Debug\CarroApp.exe
+C:\Users\HUNG\Downloads\CarroApp\CarroApp\obj\Debug\CarroApp.pdb
+C:\Users\HUNG\Downloads\CarroApp\CarroApp\bin\Debug\CarroApp.exe.config
+C:\Users\HUNG\Downloads\CarroApp\CarroApp\bin\Debug\CarroApp.exe
+C:\Users\HUNG\Downloads\CarroApp\CarroApp\bin\Debug\CarroApp.pdb

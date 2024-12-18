@@ -1,0 +1,15 @@
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Release\Server.exe.config
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Release\Server.exe
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Release\Server.pdb
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Release\CarroApp.exe
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Release\CarroApp.pdb
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\bin\Release\CarroApp.exe.config
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Release\Server.csprojAssemblyReference.cache
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Release\CarroApp.FrmLogin.resources
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Release\Server.FrmServer.resources
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Release\Server.Properties.Resources.resources
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Release\Server.csproj.GenerateResource.cache
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Release\Server.csproj.CopyComplete
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Release\Server.exe
+G:\UTC\Nam 3\Ky2\LapTrinhMang\CarroApp\Server\obj\Release\Server.pdb

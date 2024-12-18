@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CarroApp",
+    "\\CarroApp\\bin",
+    "\\CarroApp\\bin\\Release",
+    "\\CarroApp\\obj",
+    "\\CarroApp\\obj\\Debug",
+    "\\CarroApp\\Properties",
+    "\\CarroApp\\Resources",
+    "\\Server",
+    "\\Server\\bin",
+    "\\Server\\obj"
+  ],
+  "SelectedNode": "\\CarroApp.sln",
+  "PreviewInSolutionExplorer": false
+}

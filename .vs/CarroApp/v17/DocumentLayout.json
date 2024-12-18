@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUNG\\Downloads\\CarroApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCFA899-3689-4B6E-9EBD-351D655F1ADA}|Server\\Server.csproj|C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCFA899-3689-4B6E-9EBD-351D655F1ADA}|Server\\Server.csproj|solutionrelative:Server\\FrmLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCFA899-3689-4B6E-9EBD-351D655F1ADA}|Server\\Server.csproj|c:\\users\\hung\\downloads\\carroapp\\server\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCFA899-3689-4B6E-9EBD-351D655F1ADA}|Server\\Server.csproj|solutionrelative:server\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCFA899-3689-4B6E-9EBD-351D655F1ADA}|Server\\Server.csproj|c:\\users\\hung\\downloads\\carroapp\\server\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BCFA899-3689-4B6E-9EBD-351D655F1ADA}|Server\\Server.csproj|solutionrelative:server\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCFA899-3689-4B6E-9EBD-351D655F1ADA}|Server\\Server.csproj|c:\\users\\hung\\downloads\\carroapp\\server\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BCFA899-3689-4B6E-9EBD-351D655F1ADA}|Server\\Server.csproj|solutionrelative:server\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|c:\\users\\hung\\downloads\\carroapp\\carroapp\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|solutionrelative:carroapp\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCFA899-3689-4B6E-9EBD-351D655F1ADA}|Server\\Server.csproj|C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmServer.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BCFA899-3689-4B6E-9EBD-351D655F1ADA}|Server\\Server.csproj|solutionrelative:Server\\FrmServer.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Release\\CarroApp.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarroApp\\bin\\Release\\CarroApp.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Release\\CarroApp.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarroApp\\bin\\Release\\CarroApp.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Release\\CarroApp.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarroApp\\bin\\Release\\CarroApp.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Debug\\CarroApp.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarroApp\\bin\\Debug\\CarroApp.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Debug\\CarroApp.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarroApp\\bin\\Debug\\CarroApp.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Debug\\CarroApp.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarroApp\\bin\\Debug\\CarroApp.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\obj\\Debug\\CarroApp.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F8 !     \u0022     ",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarroApp\\obj\\Debug\\CarroApp.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F8 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\obj\\Debug\\CarroApp.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarroApp\\obj\\Debug\\CarroApp.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\obj\\Release\\CarroApp.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarroApp\\obj\\Release\\CarroApp.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\obj\\Release\\CarroApp.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarroApp\\obj\\Release\\CarroApp.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCFA899-3689-4B6E-9EBD-351D655F1ADA}|Server\\Server.csproj|C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmLogin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1BCFA899-3689-4B6E-9EBD-351D655F1ADA}|Server\\Server.csproj|solutionrelative:Server\\FrmLogin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCFA899-3689-4B6E-9EBD-351D655F1ADA}|Server\\Server.csproj|C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\Server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1BCFA899-3689-4B6E-9EBD-351D655F1ADA}|Server\\Server.csproj|solutionrelative:Server\\Server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\CarroAppClient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|solutionrelative:CarroApp\\CarroAppClient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\FrmClient.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|solutionrelative:CarroApp\\FrmClient.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|solutionrelative:CarroApp\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|solutionrelative:CarroApp\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\ButtonCs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|solutionrelative:CarroApp\\ButtonCs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Resources\\x.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|solutionrelative:CarroApp\\Resources\\x.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Resources\\o.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|solutionrelative:CarroApp\\Resources\\o.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Properties\\Settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|solutionrelative:CarroApp\\Properties\\Settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F089AB9E-2D73-40B4-9793-8384B98D712A}|CarroApp\\CarroAppClient.csproj|solutionrelative:CarroApp\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmClient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\FrmClient.cs",
+              "RelativeDocumentMoniker": "CarroApp\\FrmClient.cs",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\FrmClient.cs [Design]",
+              "RelativeToolTip": "CarroApp\\FrmClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:59:50.794Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmServer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmServer.cs",
+              "RelativeDocumentMoniker": "Server\\FrmServer.cs",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmServer.cs [Design]",
+              "RelativeToolTip": "Server\\FrmServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:59:26.861Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Server\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "Server\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:58:44.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Server\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmLogin.cs",
+              "RelativeToolTip": "Server\\FrmLogin.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAMwEsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:39:16.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Server\\FrmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmLogin.Designer.cs",
+              "RelativeToolTip": "Server\\FrmLogin.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:39:07.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarroApp.pdb",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Release\\CarroApp.pdb",
+              "RelativeDocumentMoniker": "CarroApp\\bin\\Release\\CarroApp.pdb",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Release\\CarroApp.pdb",
+              "RelativeToolTip": "CarroApp\\bin\\Release\\CarroApp.pdb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002276|",
+              "WhenOpened": "2024-11-23T10:22:54.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarroApp.exe.config",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Release\\CarroApp.exe.config",
+              "RelativeDocumentMoniker": "CarroApp\\bin\\Release\\CarroApp.exe.config",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Release\\CarroApp.exe.config",
+              "RelativeToolTip": "CarroApp\\bin\\Release\\CarroApp.exe.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-23T10:21:23.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmServer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmServer.Designer.cs",
+              "RelativeDocumentMoniker": "Server\\FrmServer.Designer.cs",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmServer.Designer.cs",
+              "RelativeToolTip": "Server\\FrmServer.Designer.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAWwH4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:18:51.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmLogin.resx",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmLogin.resx",
+              "RelativeDocumentMoniker": "Server\\FrmLogin.resx",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\FrmLogin.resx",
+              "RelativeToolTip": "Server\\FrmLogin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-23T11:23:48.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarroApp.exe",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Release\\CarroApp.exe",
+              "RelativeDocumentMoniker": "CarroApp\\bin\\Release\\CarroApp.exe",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Release\\CarroApp.exe",
+              "RelativeToolTip": "CarroApp\\bin\\Release\\CarroApp.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-11-23T10:21:22.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarroApp.pdb",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Debug\\CarroApp.pdb",
+              "RelativeDocumentMoniker": "CarroApp\\bin\\Debug\\CarroApp.pdb",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Debug\\CarroApp.pdb",
+              "RelativeToolTip": "CarroApp\\bin\\Debug\\CarroApp.pdb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002276|",
+              "WhenOpened": "2024-11-23T10:21:20.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T10:16:44.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarroAppClient.csproj",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\CarroAppClient.csproj",
+              "RelativeDocumentMoniker": "CarroApp\\CarroAppClient.csproj",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\CarroAppClient.csproj*",
+              "RelativeToolTip": "CarroApp\\CarroAppClient.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T10:15:51.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmClient.resx",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\FrmClient.resx",
+              "RelativeDocumentMoniker": "CarroApp\\FrmClient.resx",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\FrmClient.resx",
+              "RelativeToolTip": "CarroApp\\FrmClient.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-23T10:14:47.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarroApp.exe.config",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Debug\\CarroApp.exe.config",
+              "RelativeDocumentMoniker": "CarroApp\\bin\\Debug\\CarroApp.exe.config",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Debug\\CarroApp.exe.config",
+              "RelativeToolTip": "CarroApp\\bin\\Debug\\CarroApp.exe.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-23T10:15:37.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarroApp.exe",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Debug\\CarroApp.exe",
+              "RelativeDocumentMoniker": "CarroApp\\bin\\Debug\\CarroApp.exe",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\bin\\Debug\\CarroApp.exe",
+              "RelativeToolTip": "CarroApp\\bin\\Debug\\CarroApp.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-11-23T10:15:36.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarroApp.exe - 1 [Neutral] - RCDATA",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\obj\\Debug\\CarroApp.exe",
+              "RelativeDocumentMoniker": "CarroApp\\obj\\Debug\\CarroApp.exe",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\obj\\Debug\\CarroApp.exe - 1 [Neutral] - RCDATA",
+              "RelativeToolTip": "CarroApp\\obj\\Debug\\CarroApp.exe - 1 [Neutral] - RCDATA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-11-23T10:15:25.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarroApp.exe",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\obj\\Debug\\CarroApp.exe",
+              "RelativeDocumentMoniker": "CarroApp\\obj\\Debug\\CarroApp.exe",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\obj\\Debug\\CarroApp.exe",
+              "RelativeToolTip": "CarroApp\\obj\\Debug\\CarroApp.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-11-23T10:15:19.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarroApp.pdb",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\obj\\Release\\CarroApp.pdb",
+              "RelativeDocumentMoniker": "CarroApp\\obj\\Release\\CarroApp.pdb",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\obj\\Release\\CarroApp.pdb",
+              "RelativeToolTip": "CarroApp\\obj\\Release\\CarroApp.pdb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002276|",
+              "WhenOpened": "2024-11-23T10:15:12.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarroApp.exe",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\obj\\Release\\CarroApp.exe",
+              "RelativeDocumentMoniker": "CarroApp\\obj\\Release\\CarroApp.exe",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\obj\\Release\\CarroApp.exe",
+              "RelativeToolTip": "CarroApp\\obj\\Release\\CarroApp.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-11-23T10:15:00.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Player.cs",
+              "RelativeDocumentMoniker": "CarroApp\\Player.cs",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Player.cs",
+              "RelativeToolTip": "CarroApp\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:14:55.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\App.config",
+              "RelativeDocumentMoniker": "CarroApp\\App.config",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\App.config",
+              "RelativeToolTip": "CarroApp\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-23T10:14:44.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ButtonCs.cs",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\ButtonCs.cs",
+              "RelativeDocumentMoniker": "CarroApp\\ButtonCs.cs",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\ButtonCs.cs",
+              "RelativeToolTip": "CarroApp\\ButtonCs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T10:14:42.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "x.png - PNG [50x50, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Resources\\x.png",
+              "RelativeDocumentMoniker": "CarroApp\\Resources\\x.png",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Resources\\x.png - PNG [50x50, 32 bit, PNG]",
+              "RelativeToolTip": "CarroApp\\Resources\\x.png - PNG [50x50, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-23T10:14:24.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "o.png - PNG [50x50, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Resources\\o.png",
+              "RelativeDocumentMoniker": "CarroApp\\Resources\\o.png",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Resources\\o.png - PNG [50x50, 32 bit, PNG]",
+              "RelativeToolTip": "CarroApp\\Resources\\o.png - PNG [50x50, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-23T10:14:23.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "CarroApp\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Properties\\Settings.settings",
+              "RelativeToolTip": "CarroApp\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-11-23T10:14:19.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "CarroApp\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\HUNG\\Downloads\\CarroApp\\CarroApp\\Properties\\Resources.resx",
+              "RelativeToolTip": "CarroApp\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-23T10:14:16.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
